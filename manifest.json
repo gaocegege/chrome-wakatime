@@ -34,6 +34,7 @@
   "permissions": [
     "https://api.wakatime.com/*",
     "https://wakatime.com/*",
+    "https://wakapi.dev/*",
     "alarms",
     "tabs",
     "storage",
